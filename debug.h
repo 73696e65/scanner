@@ -15,9 +15,9 @@
 } while (0)
 
 #ifdef DEBUG_ENABLED
-  #define DBG(x...)      SAY(x)
+#define DBG(x...)      SAY(x)
 #else
-  #define DBG(x...)        ;
+#define DBG(x...)        ;
 #endif
 
 #endif
