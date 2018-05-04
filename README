@@ -1,0 +1,2 @@
+Example:
+./scanner -p 21:"ftp" -p 25:"esmtp|microsoft" -o hosts.txt -n 1000
